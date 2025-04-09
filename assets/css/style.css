@@ -89,8 +89,18 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events section */
+
+.custom-box-fill {
+    background-color: var(--highlight-color);
+    margin: auto;
+    width:max-content; 
+    padding:2px 20px;
+    color: white;
+}
+
 /* Game library cards*/
- #new-games-section .card, #fav-games-section .card{
+ #new-games .card, #fav-games .card{
     border: none;
 }
 
